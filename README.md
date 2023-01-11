@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React Native and ML
 
-- ❓ Ask me about anything about Competitive Programming and MERN stack
+- ❓ Ask me anything about Competitive Programming and MERN stack
 
 - ⚡ Fun fact: I use tabs over spaces
 
