@@ -65,15 +65,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nach-33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center"  alt="Nach-33"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nach-33&theme=dark&hide_border=false" alt="Nach-33" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nach-33" /></p>
 </div>
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Nach-33&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✍️ Random Dev Quote
+<div align="center">
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  alt="You miss 100% of the shots that you don't take. ~Wayne Gretzky ~~Michael Scott"/>
+  </p>
+</div>
