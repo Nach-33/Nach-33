@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Nachiket, a full-stack web developer 👨‍💻 passionately adding new skills to my arsenal🚀</div>
 
-- 🌱 I’m currently learning React Native and ML
+- 🌱 I’m currently learning React Native and DevOps
 
 - ❓ Ask me anything about Competitive Programming and MERN stack
 
