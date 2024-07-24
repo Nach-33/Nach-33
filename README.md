@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/1341046/screenshots/6024758/media/202fc3e28062db2f7094825ee6bcc54f.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Nachiket, a full-stack web developer 👨‍💻 passionately adding new skills to my arsenal🚀</div>
