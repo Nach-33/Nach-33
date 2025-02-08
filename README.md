@@ -51,26 +51,10 @@
 
 <br/>
 
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/Nach-33" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nachos_33_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-<br/>
-
 # 📊 GitHub Stats:
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center"  alt="Nach-33"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nach-33&theme=dark&hide_border=false" alt="Nach-33" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nach-33" /></p>
 </div>
 
 ## ✍️ Random Dev Quote
