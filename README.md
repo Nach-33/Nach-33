@@ -4,9 +4,9 @@
 
 ### <div align="center">I'm Nachiket, a full-stack web developer 👨‍💻 passionately adding new skills to my arsenal🚀</div>
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently working on .NET technologies
 
-- ❓ Ask me anything about Competitive Programming and MERN stack
+- ❓ Ask me anything about Competitive Programming
 
 - ⚡ Fun fact: I use tabs over spaces
 
